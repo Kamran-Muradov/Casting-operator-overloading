@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Casting\Casting\bin\Debug\net6.0\Casting.exe
+C:\Workspace Code Academy\Casting\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Workspace Code Academy\Casting\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Workspace Code Academy\Casting\Casting\bin\Debug\net6.0\Casting.dll
+C:\Workspace Code Academy\Casting\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.dll
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\Workspace Code Academy\Casting\Casting\obj\Debug\net6.0\ref\Casting.dll
